@@ -56,7 +56,7 @@ Once the program is running, choose an option from the menu:
 
 - 📌 Tasks are saved in a `tasks.txt` file.  
 - 🔄 The program automatically loads tasks when restarted.  
-- 🔢 Tasks are stored in the format: `Priority - Task Description`.  
+- 🔢 Tasks are stored in the format: `Task Description | Status | Priority`.  
 
 ---
 
